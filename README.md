@@ -8,11 +8,7 @@ The world as a whole suffers due to car accidents, including the USA. National H
 This model can be used for alerting drivers when the probability of having a severe accident is high.   
 
 
-## Data Understanding
 
-The data used for this project can be found [here] (https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Data-Collisions.csv). It consist on all type of collitions on the city of Seattle from 2004 to present. The raw data has 194673 observations (collitions) and the following columns: 
-
-![Columns](/Img/Columns.jpg = 100x20)
 
 
 
